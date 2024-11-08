@@ -22,6 +22,18 @@ nav{
     font-weight: 700;
     padding: 15px 35px;
 }
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.section-description{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    
+}
 nav> ul{
     display: flex;
     align-items: center;
@@ -37,6 +49,7 @@ nav a{
 
 .header{
     background-color: #FFF8F3;
+    background-image: url('../images/f2.avif');
 }
 .banner{
     padding: 30px 30px 30px 150px;
@@ -47,6 +60,12 @@ nav a{
     width: 300px;
     height: 400px;
     
+}
+.about{
+    padding: 130px;
+    border: 10px;
+    background: #f5e1d3;
+    margin: 130px 0px;
 }
 
 
