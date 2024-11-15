@@ -132,7 +132,24 @@ footer{
     background: #FFF8F3;
     margin-top: 100px;
     padding: 100px 120px;
+    gap: 100px;
 }
+.footer-column{
+    width: 50%;
+}
+.contact input,textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background-color: #FFF;
+    border: 0;
+}
+.contact input
+
+
+
 
 
 
